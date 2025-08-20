@@ -1,0 +1,4 @@
+name,sector,stage,geo,take_rate,rake_sensitivity,routing_power,network_strength,disintermediate_risk,fragmentation,frequency,take_rate_room,standardization,geographic_density,payment_flow,regulatory_risk,leakage_risk,commoditization_risk,capital_intensity,cac_payback_months,ltv_cac,contribution_margin,value_unlock_index
+Acme Market,Marketplace,Seed,US,15,4,6,7,3,7,6,6,6,7,8,4,3,4,5,12,5,20,7
+Beta SaaS,SaaS,Series A,EU,0,2,5,6,2,5,7,0,8,5,5,3,2,6,4,14,4,65,6
+Gamma Fintech,Fintech,Series B+,US,25,7,8,8,5,6,8,7,6,8,9,6,5,6,7,10,6,35,8
